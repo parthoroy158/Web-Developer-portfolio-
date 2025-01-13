@@ -78,10 +78,18 @@ nav a{
     padding: 50px;
     background-color: #FFF8F3;
     margin: 130px;
+    
 }
 .Section-title{
     text-align: center;
 }
 .secion-desription{
     text-decoration: none;
+}
+.about-info-container{
+    display: flex;
+    justify-content: space-around;
+}
+.about-info{
+    text-align: center;
 }
