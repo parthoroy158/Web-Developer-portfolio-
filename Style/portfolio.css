@@ -128,3 +128,17 @@ nav a{
     margin: 120px;
     gap: 24px;
 }
+.resume-header{
+    text-align: center;
+}
+.resume-column{
+    margin: 0px 0px 0px 120px; 
+}
+.resume{
+    display: flex;
+    display: space-between;
+}
+.rr hr{
+    margin: 0px 50px 0px 120px; ;   
+
+}
