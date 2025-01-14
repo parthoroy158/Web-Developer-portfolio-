@@ -77,8 +77,12 @@ nav a{
 .about{
     padding: 50px;
     background-color: #FFF8F3;
-    margin: 120px ;
-    
+    margin: 120px ;  
+}
+.about-info{
+    padding: 50px;
+    background-color: #FFF8F3;
+    margin: 10px ;  
 }
 .Section-title{
     text-align: center;
@@ -90,13 +94,37 @@ nav a{
     display: flex;
     justify-content: space-around;
 }
-.about-info{
-    justify-content: center;
-}
 .secion-desription 2 {
     margin: 120px;
 }
-#what i do {
-    padding: 30px 30px 150px;
+.whatido{
+    padding: 50px;
     background-color: #FFF8F3;
+    margin: 70px 120px; 
+}
+.skill1{
+    padding: 24px;
+    background-color: #FFF8F3;
+    box-shadow: 0px 0px 10px 0px #474747;  
+}
+.skill2{
+    padding: 24px;
+    background-color: #FFF8F3;
+    box-shadow: 0px 0px 10px 0px #474747;  
+}
+.skill3{
+    padding: 24px;
+    background-color: #FFF8F3;
+    box-shadow: 0px 0px 10px 0px #474747;  
+}
+.skill4{
+    padding: 24px;
+    background-color: #FFF8F3;
+    box-shadow: 0px 0px 10px 0px #474747;  
+}
+.skill{
+    display: flex;
+    justify-content: space-between;
+    margin: 120px;
+    gap: 24px;
 }
